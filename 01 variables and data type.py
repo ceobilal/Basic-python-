@@ -70,3 +70,4 @@ print("Power:", a ** b)           # 1000
 
 c=a+b
 print(c)
+print(c)
