@@ -64,7 +64,7 @@ A String in Python is a sequence of characters, used to represent text data.<br/
 &nbsp; &nbsp;1: Strings can contain letters, numbers, symbols, and spaces.<br/>
 &nbsp; &nbsp;2: In Python, strings are written inside single ' ' or double " " quotes.<br/>
 &nbsp; &nbsp;3: Strings are immutable, which means once created, you cannot change them directly.<br/>
-&nbsp; &nbsp;4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a>
+&nbsp; &nbsp;4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings%20and%20Strings%20Methods.py">Example</a>
 </p>
 
 <h1>String Array in Python ?</h1>
