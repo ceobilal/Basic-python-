@@ -3,12 +3,24 @@
 <h1>What is Python </h1>
 <p>Python is a popular and easy programming language. It was created by Guido van Rossum, and released in 1991.</p>
 <pre>
-  It is used for:
-                  web development (server-side),
-                  software development,
-                  mathematics,
-                  system scripting.
-                  AI / ML
-                  Data science
-                  etc.       
+<h3>It is used for: </h3>
+web development (server-side),
+software development,
+mathematics,
+system scripting,
+AI/ML,
+Data science,
+automation,
+data analysis,
+game development,
+desktop applications,
+cyber security,
+network programming,
+IoT (Internet of Things),
+scientific computing,
+education (learning programming),
+machine learning,
+deep learning,
+etc.
+    
 </pre>
