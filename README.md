@@ -23,7 +23,7 @@
 17. deep learning,
 etc.
 </pre>
-<h1>What is in Python Comments</h1>
+<h1>Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
 There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double line Comments <br/>
   Example in this link <a href="https://github.com/ceobilal/Basic-python-/blob/main/01%20Python%20Comments.py">Comments Example.</a>
@@ -59,13 +59,13 @@ flot to integer
 string to integer
 integer to float
 etc.   <a href="https://github.com/ceobilal/Basic-python-/blob/main/05%20Python%20Type%20Casting.py">Example </a></pre>
-<h1>Python strings</h1>
+<h1>Python Strings / Strings Methods</h1>
 <p>
 A String in Python is a sequence of characters, used to represent text data. <br/>
 &nbsp; &nbsp;  1: Strings can contain letters, numbers, symbols, and spaces.<br/>
 &nbsp; &nbsp;   2: In Python, strings are written inside single ' ' or double " " quotes. <br/>
 &nbsp; &nbsp;  3: Strings are immutable, which means once created, you cannot change them directly.<br/>
-&nbsp; &nbsp;  4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a>
+&nbsp; &nbsp;  <h2>4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a></h2>
 </p>
 
 <h1>String Array in Python ?</h1>
