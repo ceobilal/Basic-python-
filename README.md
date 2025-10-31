@@ -38,7 +38,21 @@ There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double lin
   Variables Writing Methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/02%20Python%20Variable.py"> Examples </a>
 </p>
 <h1>Python Data Types</h1>
-<p> Variables can store data of different types </p>
+<p> Variables can store data of different types. Python has some built-in data types, and they come in different categories.</p>
+<pre>
+Python Built-in Data Types
+Category           Data Types
+-----------------  ----------------------------
+Text Type          str
+Numeric Types      int, float, complex
+Sequence Types     list, tuple, range
+Mapping Type       dict
+Set Types          set, frozenset
+Boolean Type       bool
+Binary Types       bytes, bytearray, memoryview
+None Type          NoneType  
+</pre>
+
 
 
 
