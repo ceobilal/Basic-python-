@@ -31,10 +31,10 @@ There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double lin
 <h1>What is Variables in Python</h1>
 <p> Variables are containers for storing data values.<br/>
 <h2>Rules for naming variables:</h2>
-  1: A Variable name should start with a latter or undrscoure ( _ ).
-  2: A Variable name Cannot Start With a number.
-  3: A Variable name is Case sensitive.
-  4: A variable name should only Contain Underscores ( _ ) and alpha-numeric Character. 
+  1: A Variable name should start with a latter or undrscoure ( _ ). <br/>
+  2: A Variable name Cannot Start With a number. <br/>
+  3: A Variable name is Case sensitive. <br/>
+  4: A variable name should only Contain Underscores ( _ ) and alpha-numeric Character. <br/>
   Variables Writing Methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/02%20Python%20Variable.py"> Examples </a>
 </p>
 
