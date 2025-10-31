@@ -25,7 +25,7 @@ etc.
 </pre>
 <h1>What is in Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
-there are Two Types Comments (1) single line Comments (2) Double line Comments
+There are Two Types Comments (1) single line Comments (2) Double line Comments
   Example in this link <a href="https://github.com/ceobilal/Basic-python-/blob/main/01%20Python%20Comments.py">Comments Example.</a>
 </p>
 
@@ -36,5 +36,4 @@ there are Two Types Comments (1) single line Comments (2) Double line Comments
 
 
 
-<p> Comments are lines or parts of code in Python that are written but not executed by the computer.
-They are used only to explain the code or leave notes for humans. </p>
+
