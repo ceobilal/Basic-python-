@@ -23,7 +23,7 @@ It is used for:
   17. deep learning,
 </pre>
 <h1>Escape Sequence Character in python</h1>
-<p>Escape Characters are special characters in Python <a href="http://github.com/ceobilal/Basic-python-/blob/main/00_Escape%20Character%20in%20python.py">Example</a></p>
+<p>Escape Characters are special characters in Python <a href="http://github.com/ceobilal/Basic-python-/blob/main/00_Escape%20Character%20in%20python.py"> &nbsp; &nbsp; Escape Sequence Character Example</a></p>
 <pre>| Escape Character | Meaning          |
 | ---------------- | ---------------- |
 | \n             | New line         |
