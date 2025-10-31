@@ -52,8 +52,13 @@ Boolean Type       bool✅
 Binary Types       bytes, bytearray, memoryview
 None Type          NoneType✅  
 </pre>
-
-
+<h1>Type Casting in Python</h1>
+<pre>Type Casting is the process of converting one data type into another in Python.
+integer to float 
+flot to integer
+string to integer
+integer to float
+etc.   <a href="https://github.com/ceobilal/Basic-python-/blob/main/05%20Python%20Type%20Casting.py">Example </a></pre>
 
 
 
