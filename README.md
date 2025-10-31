@@ -2,7 +2,7 @@
 <p> A Programming Language is a Special Language that we Use to tell the Computer What to do. </p>
 
 <h1>What is Python </h1>
-<p>Python is a popular and easy programming language. It was created by Guido van Rossum, and released in 1991. Python is case sensitive Programming language.</p>
+<p>Python is a popular and easy programming language. It was created by Guido van Rossum, and released in 1991. Python is case sensitive Programming language. In Python, indentation is very important</p>
 <pre>
 <h2>It is used for:</h2>
 1. web development (server-side),
@@ -73,6 +73,7 @@ A String in Python is a sequence of characters, used to represent text data.<br/
 <h1>Input our Output in Python </h1>
 <P>Input = User gives something <br/>
 Output = Program shows something &nbsp; &nbsp;  <a href="https://github.com/ceobilal/Basic-python-/blob/main/08%20Python%20input%20and%20output.py"> Example </a></P>
+
 
 
 
