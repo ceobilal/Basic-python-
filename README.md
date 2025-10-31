@@ -60,13 +60,13 @@ string to integer
 integer to float
 etc.   <a href="https://github.com/ceobilal/Basic-python-/blob/main/05%20Python%20Type%20Casting.py">Example </a></pre>
 <h1>Python Strings / Strings Methods</h1>
-<p>
+<pre>
 A String in Python is a sequence of characters, used to represent text data. <br/>
 &nbsp; &nbsp;  1: Strings can contain letters, numbers, symbols, and spaces.<br/>
 &nbsp; &nbsp;   2: In Python, strings are written inside single ' ' or double " " quotes. <br/>
 &nbsp; &nbsp;  3: Strings are immutable, which means once created, you cannot change them directly.<br/>
-&nbsp; &nbsp;  <h2>4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a></h2>
-</p>
+&nbsp; &nbsp;  <h2>4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a> </h2>
+</per>
 
 <h1>String Array in Python ?</h1>
 <p>Each character can be accessed by its index <a href="https://github.com/ceobilal/Basic-python-/blob/main/07%20Python%20Strings%20are%20Arrays.py"> Example </a></p>
