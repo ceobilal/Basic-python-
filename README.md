@@ -26,11 +26,11 @@ It is used for:
 <p>Escape Characters are special characters in Python</p>
 <pre>| Escape Character | Meaning          |
 | ---------------- | ---------------- |
-| `\n`             | New line         |
-| `\t`             | Tab (space)      |
-| `\\`             | Backslash itself |
-| `\'`             | Single quote     |
-| `\"`             | Double quote     |
+| \n             | New line         |
+| \t             | Tab (space)      |
+| \\             | Backslash itself |
+| \'             | Single quote     |
+| \"             | Double quote     |
 </pre>
 <h1>Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
