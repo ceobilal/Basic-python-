@@ -37,7 +37,8 @@ There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double lin
   4: A variable name should only Contain Underscores ( _ ) and alpha-numeric Character. <br/>
   Variables Writing Methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/02%20Python%20Variable.py"> Examples </a>
 </p>
-
+<h1>Python Data Types</h1>
+<p> Variables can store data of different types </p>
 
 
 
