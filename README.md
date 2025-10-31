@@ -22,6 +22,16 @@ It is used for:
   16  machine learning,
   17. deep learning,
 </pre>
+<h1>Escape Sequence Character in python</h1>
+<p>Escape Characters are special characters in Python</p>
+<pre>| Escape Character | Meaning          |
+| ---------------- | ---------------- |
+| `\n`             | New line         |
+| `\t`             | Tab (space)      |
+| `\\`             | Backslash itself |
+| `\'`             | Single quote     |
+| `\"`             | Double quote     |
+</pre>
 <h1>Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
 There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double line Comments <br/>
