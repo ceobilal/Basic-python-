@@ -28,7 +28,15 @@ etc.
 There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double line Comments <br/>
   Example in this link <a href="https://github.com/ceobilal/Basic-python-/blob/main/01%20Python%20Comments.py">Comments Example.</a>
 </p>
-
+<h1>What is Variables in Python</h1>
+<p> Variables are containers for storing data values.<br/>
+<h2>Rules for naming variables:</h2>
+  1: A Variable name should start with a latter or undrscoure ( _ ).
+  2: A Variable name Cannot Start With a number.
+  3: A Variable name is Case sensitive.
+  4: A variable name should only Contain Underscores ( _ ) and alpha-numeric Character. 
+  Variables Writing Methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/02%20Python%20Variable.py"> Examples </a>
+</p>
 
 
 
