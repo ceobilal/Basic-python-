@@ -18,3 +18,9 @@ print(type(b))
 print(type(c))
 print(type(d))
 print(type(e))
+
+
+# all code with in one line 
+a="hello world " ; b=251 ; c=20.2 ; d=True ; e= 2+ 9j ; print(a,b,c,d,e) 
+
+print(type(a)) ; print(type(b)) ; print(type(c)) ; print(type(d)) ; print(type(e))

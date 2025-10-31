@@ -20,3 +20,9 @@ c=a+b ; d=a,b ; print(a+b)
 
 print(c)
 print(d)
+
+# Method 5
+Chaild_name="Zain"
+father_name="ALI"
+
+print(Chaild_name,father_name)
