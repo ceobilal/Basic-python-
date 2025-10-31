@@ -62,10 +62,10 @@ etc.   <a href="https://github.com/ceobilal/Basic-python-/blob/main/05%20Python%
 <h1>Python strings</h1>
 <p>
 A String in Python is a sequence of characters, used to represent text data. <br/>
-1: Strings can contain letters, numbers, symbols, and spaces.<br/>
-2: In Python, strings are written inside single ' ' or double " " quotes. <br/>
-3: Strings are immutable, which means once created, you cannot change them directly.<br/>
-4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a>
+  1: Strings can contain letters, numbers, symbols, and spaces.<br/>
+  2: In Python, strings are written inside single ' ' or double " " quotes. <br/>
+  3: Strings are immutable, which means once created, you cannot change them directly.<br/>
+  4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a>
 </p>
 
 
