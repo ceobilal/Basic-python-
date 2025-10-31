@@ -38,7 +38,7 @@ There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double lin
   Variables Writing Methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/02%20Python%20Variable.py"> Examples </a>
 </p>
 <h1>Python Data Types</h1>
-<p> Variables can store data of different types. Python has some built-in data types, and they come in different categories<br/> <a href="https://github.com/ceobilal/Basic-python-/blob/main/03%20Python%20Check%20data%20Type.py">Example No 1</a> <br/> <a href="https://github.com/ceobilal/Basic-python-/blob/main/04%20Python%20Data%20Types.py">Example No 2</a> .</p>
+<p> Variables can store data of different types. Python has some built-in data types, and they come in different categories<br/> In This is Example Check the data type <a href="https://github.com/ceobilal/Basic-python-/blob/main/03%20Python%20Check%20data%20Type.py">Example No 1</a> <br/> In This Example (str,int,float,complex) <a href="https://github.com/ceobilal/Basic-python-/blob/main/04%20Python%20Data%20Types.py">Example No 2</a> .</p>
 <pre>
 <h2>Python Built-in Data Types</h2>
 Category           Data Types
