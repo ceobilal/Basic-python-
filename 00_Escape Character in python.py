@@ -1,0 +1,11 @@
+Esacp_Seqence_character="""
+hello\nworld  
+hello\tworld
+hello\"world
+hello\"world\"
+hello\'world
+hello\'world\'
+hello\\world
+hello\\world\\
+"""
+print(Esacp_Seqence_character)
