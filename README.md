@@ -5,23 +5,22 @@
 <p>Python is a popular and easy programming language. It was created by Guido van Rossum, and released in 1991. Python is case sensitive Programming language. In Python, indentation is very important</p>
 <pre>
 It is used for:
-1. web development (server-side),
-2. software development,
-3. mathematics,
-4. system scripting,
-5. AI/ML,
-6. Data science,
-7. automation,
-9. data analysis,
-10. game development,
-11. desktop applications,
-12. cyber security,
-13. network programming,
-14. IoT (Internet of Things),
-15. scientific computing,
-16  machine learning,
-17. deep learning,
-etc.
+  1. web development (server-side),
+  2. software development,
+  3. mathematics,
+  4. system scripting,
+  5. AI/ML,
+  6. Data science,
+  7. automation,
+  9. data analysis,
+  10. game development,
+  11. desktop applications,
+  12. cyber security,
+  13. network programming,
+  14. IoT (Internet of Things),
+  15. scientific computing,
+  16  machine learning,
+  17. deep learning,
 </pre>
 <h1>Python Comments</h1>
 <p> They are used only to explain the code or leave notes for humans. Comments are not interpreted by Python. Meaining, Comments will not be executed.<br/>
