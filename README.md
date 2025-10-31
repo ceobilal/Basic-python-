@@ -64,12 +64,15 @@ etc.   <a href="https://github.com/ceobilal/Basic-python-/blob/main/05%20Python%
 A String in Python is a sequence of characters, used to represent text data.<br/>
 &nbsp; &nbsp;1: Strings can contain letters, numbers, symbols, and spaces.<br/>
 &nbsp; &nbsp;2: In Python, strings are written inside single ' ' or double " " quotes.<br/>
-&nbsp;&nbsp;3: Strings are immutable, which means once created, you cannot change them directly.<br/>
+&nbsp; &nbsp;3: Strings are immutable, which means once created, you cannot change them directly.<br/>
 &nbsp; &nbsp;4: String Writing methods <a href="https://github.com/ceobilal/Basic-python-/blob/main/06%20Python%20Strings.py">Example</a>
 </p>
 
 <h1>String Array in Python ?</h1>
 <p>Each character can be accessed by its index <a href="https://github.com/ceobilal/Basic-python-/blob/main/07%20Python%20Strings%20are%20Arrays.py"> Example </a></p>
+<h1>Input our Output in Python </h1>
+<P>Input = User gives something <br/>
+Output = Program shows something &nbsp; &nbsp;  <a href="https://github.com/ceobilal/Basic-python-/blob/main/08%20Python%20input%20and%20output.py"> Example </a></P>
 
 
 
