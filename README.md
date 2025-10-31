@@ -40,7 +40,7 @@ There are Two Types Comments <br/> (1) single line Comments <br/> (2) Double lin
 <h1>Python Data Types</h1>
 <p> Variables can store data of different types. Python has some built-in data types, and they come in different categories.</p>
 <pre>
-Python Built-in Data Types
+<b><i>  Python Built-in Data Types </i></b>
 Category           Data Types
 -----------------  ----------------------------
 Text Type          str
