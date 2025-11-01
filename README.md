@@ -148,6 +148,11 @@ The outer list is called the parent list, and the inner lists are called child l
 If we want to get a portion of a list, instead of the whole list,<br/>
 we can use the slicing operator : in Python.<br/><br/> 
 Using slicing, we can specify the start and end indexes of the list to get only that part.
+<pre>         
+     Example:
+               numbers = [10, 20, 30, 40, 50]
+                     print(numbers[1:4])
+</pre>
 </p>
 
 
