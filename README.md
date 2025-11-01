@@ -94,10 +94,10 @@ All the items you want to store are written inside these brackets,<br/>
 and each item is separated by a comma ( , ).<br/>
 <pre>fruits = ["apple", "banana", "mango"]</pre>
 <h2>List Items of Different Types</h2>
-Python lists are very flexible.
-We can store items of different data types in a single list.
+Python lists are very flexible.<br/>
+We can store items of different data types in a single list.<br/>
 For example:
-You can keep numbers, words (strings), and True or False (boolean values) all together in one list.
+You can keep numbers, words (strings), and True or False (boolean values) all together in one list.<br/>
 
 Lists are somewhat similar to arrays in other programming languages,
 but the difference is that Python lists are dynamic arrays — meaning they can hold items of different data types (such as numbers, strings, or booleans) together.
