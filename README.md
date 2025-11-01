@@ -97,8 +97,7 @@ and each item is separated by a comma ( , ).<br/>
 Python lists are very flexible.<br/>
 We can store items of different data types in a single list.<br/>
 For example:
-You can keep numbers, words (strings), and True or False (boolean values) all together in one list.<br/>
-
+You can keep numbers, words (strings), and True or False (boolean values) all together in one list.<br/> <br/>
 Lists are somewhat similar to arrays in other programming languages,
 but the difference is that Python lists are dynamic arrays — meaning they can hold items of different data types (such as numbers, strings, or booleans) together.
 </p>
