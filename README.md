@@ -100,6 +100,16 @@ For example:
 You can keep numbers, words (strings), and True or False (boolean values) all together in one list.<br/> <br/>
 Lists are somewhat similar to arrays in other programming languages,
 but the difference is that Python lists are dynamic arrays — meaning they can hold items of different data types (such as numbers, strings, or booleans) together.
+<h2>Access List Elements</h2>
+When we create a list, each item inside it is automatically given a number,<br/>
+called an index.
+<h2>What is an Index?</h2>
+An index is a number that tells us the position of an item in the list.<br/><br/>
+
+1. The first item in a list is always at index 0.<br/>
+2. The second item is at index 1.<br/>
+3. The third item is at index 2,<br/>
+and so on.
 </p>
 
 
