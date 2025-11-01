@@ -118,7 +118,7 @@ An index is a number that tells us the position of an item in the list.<br/><br/
 | "grapes" | 3     |
 </pre>
 <h2>Negative Indexing (Accessing items from the end of a list)</h2>
-<p>
+
 In Python, you can access items from the end of a list using negative numbers.
 •	The last item has index -1
 •	The second last item has index -2
@@ -133,7 +133,7 @@ and so on.
 | mango  | 2              | -2             |
 | grapes | 3              | -1             |
   </pre>
-</p>
+
 </p>
 
 
