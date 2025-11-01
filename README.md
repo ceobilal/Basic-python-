@@ -144,6 +144,10 @@ The outer list is called the parent list, and the inner lists are called child l
                      [7, 8, 9]
                                 ]
 </pre>
+<h2>🔹 What is List Slicing?</h2>
+If we want to get a portion of a list, instead of the whole list,<br/>
+we can use the slicing operator : in Python.<br/><br/> 
+Using slicing, we can specify the start and end indexes of the list to get only that part.
 </p>
 
 
