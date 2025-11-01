@@ -154,7 +154,7 @@ Using slicing, we can specify the start and end indexes of the list to get only 
      Example:
                numbers = [10, 20, 30, 40, 50]
                      print(numbers[1:4]) Output: [20, 30, 40]
-                     numbers[:3]  # 0 سے 2 index تک  Output: [20, 30, 40]
+                     numbers[:3]  # 0 سے 2 index تک  Output: [10, 20, 30]
 </pre>
 <h2>Negative slicing</h2> 
 <pre>                     
@@ -165,22 +165,22 @@ Using slicing, we can specify the start and end indexes of the list to get only 
 </pre>
 
 <pre>
-  |  Method Name                        | What it Does / Working                                                  |
-| ------------------------------------- | ---------------------------------------------------------------------------- |
-| `append(item)`                        | Adds a single item at the end of the list                                    |
-| `insert(index, item)`                 | Adds a single item at a specific position                                    |
-| `extend(iterable)`                    | Adds all items from another list or iterable                                 |
-| `remove(item)`                        | Removes the first occurrence of a specified item                             |
-| `pop(index=-1)`                       | Removes and returns item at the given index (default last item)              |
-| `clear()`                             | Removes all items from the list                                              |
-| `len(list))`                          | Returns the index of the first occurrence of a specified item                |
-| `count(item)`                         | Returns the number of times a specified item appears in the list             |
-| `sort(key=None, reverse=False)`       | Sorts the list (ascending by default, descending if `reverse=True`)          |
-| `reverse()`                           | Reverses the order of items in the list                                      |
-| `copy()`                              | Returns a shallow copy of the list                                           |
-| `len(list)`                           | Returns the number of items in the list *(function, not method)*             |
-| `del list[index]`                     | Deletes item at a specific index *(statement, not method)*                   |
-| `*list comprehension*`                | Creates a new list based on existing lists *(not a method, but widely used)* |
+|    Method Name                      | What it Does / Working                                                       |
+| ----------------------------------- | ---------------------------------------------------------------------------- |
+| append(item)                        | Adds a single item at the end of the list                                    |
+| insert(index, item)                 | Adds a single item at a specific position                                    |
+| extend(iterable)                    | Adds all items from another list or iterable                                 |
+| remove(item)                        | Removes the first occurrence of a specified item                             |
+| pop(index=-1)                       | Removes and returns item at the given index (default last item)              |
+| clear()                             | Removes all items from the list                                              |
+| len(list))                          | Returns the number of items in the list                                      |
+| count(item)                         | Returns the number of times a specified item appears in the list             |
+| sort(key=None, reverse=False)       | Sorts the list (ascending by default, descending if `reverse=True`)          |
+| reverse()                           | Reverses the order of items in the list                                      |
+| copy()                              | Returns a shallow copy of the list                                           |
+| len(list)                           | Returns the number of items in the list *(function, not method)*             |
+| del list[index]                     | Deletes item at a specific index *(statement, not method)*                   |
+| *list comprehension*                | Creates a new list based on existing lists *(not a method, but widely used)* |
 
 </pre>
 </p>
