@@ -108,8 +108,8 @@ An index is a number that tells us the position of an item in the list.<br/><br/
 
 1. The first item in a list is always at index 0.<br/>
 2. The second item is at index 1.<br/>
-3. The third item is at index 2,<br/>
-and so on.
+3. The third item is at index 2, and so on.<br/>
+Example.
 <pre>fruits = ["apple", "banana", "mango", "grapes"]</pre>
 <pre>| Item     | Index |
 | -------- | ----- |
