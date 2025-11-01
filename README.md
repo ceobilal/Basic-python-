@@ -148,7 +148,7 @@ The outer list is called the parent list, and the inner lists are called child l
 If we want to get a portion of a list, instead of the whole list,<br/>
 we can use the slicing operator : in Python.<br/><br/> 
 Using slicing, we can specify the start and end indexes of the list to get only that part.
-<h3> Range of Index</h3> By using a colon (:) we can access a range of items at once.<br/> Simply separate two indexes useing the colon.<br/> The first index is the startof the range while the second index is the end of the range 
+<h3> Range of Index</h3> By using a colon (:) we can access a range of items at once.<br/> Simply separate two indexes useing the colon.<br/> The first index is the startof the range while the second index is the end of the range  <br/>
 <pre>         
      Example:
                numbers = [10, 20, 30, 40, 50]
