@@ -111,6 +111,13 @@ An index is a number that tells us the position of an item in the list.<br/><br/
 3. The third item is at index 2,<br/>
 and so on.
 <pre>fruits = ["apple", "banana", "mango", "grapes"]</pre>
+<pre>| Item     | Index |
+| -------- | ----- |
+| "apple"  | 0     |
+| "banana" | 1     |
+| "mango"  | 2     |
+| "grapes" | 3     |
+</pre>
 </p>
 
 
