@@ -133,7 +133,17 @@ and so on.
 | mango  | 2              | -2             |
 | grapes | 3              | -1             |
   </pre>
-
+<h2>What is a Nested List?</h2>
+A Nested List is a list that contains other lists inside it.<br/>
+The outer list is called the parent list, and the inner lists are called child lists.
+<pre>
+  Example:
+         matrix = [
+                     [1, 2, 3],
+                     [4, 5, 6],
+                     [7, 8, 9]
+                                ]
+</pre>
 </p>
 
 
