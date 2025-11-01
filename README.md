@@ -151,7 +151,15 @@ Using slicing, we can specify the start and end indexes of the list to get only 
 <pre>         
      Example:
                numbers = [10, 20, 30, 40, 50]
-                     print(numbers[1:4])
+                     print(numbers[1:4]) Output: [20, 30, 40]
+                     numbers[:3]  # 0 سے 2 index تک  Output: [20, 30, 40]
+</pre>
+<h2>Negative slicing</h2> 
+<pre>                     
+        Example:
+                        numbers = [10, 20, 30, 40, 50]
+                            print(numbers[-4:-1])   Output:  [20, 30, 40]
+                            print (number[:-4]) Output: [10] 
 </pre>
 </p>
 
