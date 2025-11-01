@@ -84,8 +84,13 @@ A String in Python is a sequence of characters, used to represent text data.<br/
 Output = Program shows something &nbsp; &nbsp;  <a href="https://github.com/ceobilal/Basic-python-/blob/main/08%20Python%20input%20and%20output.py"> Example </a></P>
 <h1>Python List </h1>
 <p>
-In Python, lists allow us to store multiple items in a single variable.
-For example, if you need to store the ages of all the students in a class, you can easily do this using a list.
+In Python, lists allow us to store multiple items in a single variable.<br/>
+For example, if you need to store the ages of all the students in a class, you can easily do this using a list.<br>
+<h2>List Items of Different Types</h2>
+Python lists are very flexible.
+We can store items of different data types in a single list.
+For example:
+You can keep numbers, words (strings), and True or False (boolean values) all together in one list.
 
 Lists are somewhat similar to arrays in other programming languages,
 but the difference is that Python lists are dynamic arrays — meaning they can hold items of different data types (such as numbers, strings, or booleans) together.
