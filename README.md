@@ -86,11 +86,13 @@ Output = Program shows something &nbsp; &nbsp;  <a href="https://github.com/ceob
 <p>
 <h2>What is a Python List? </h2> 
 In Python, a list is an ordered container — meaning the items inside it are stored in a specific sequence.<br/>
+In Python, lists allow us to store multiple items in a single variable.<br/>
+For example, if you need to store the ages of all the students in a class, you can easily do this using a list.<br/>
+<h2>How to Create List</h2>
 To create a list, we use square brackets [ ].<br/>
 All the items you want to store are written inside these brackets,<br/>
 and each item is separated by a comma ( , ).<br/>
-In Python, lists allow us to store multiple items in a single variable.<br/>
-For example, if you need to store the ages of all the students in a class, you can easily do this using a list.<br/>
+<pre>fruits = ["apple", "banana", "mango"]</pre>
 <h2>List Items of Different Types</h2>
 Python lists are very flexible.
 We can store items of different data types in a single list.
